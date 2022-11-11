@@ -30,7 +30,7 @@ nmap
 telnet  
 <br>
 How to:  
-  `$ nmap -T4 -sVC -Pn -v (ターゲットIP) -oA (ファイル名)`  
+  $ nmap -T4 -sVC -Pn -v (ターゲットIP) -oA (ファイル名)  
   - T4: スキャン間隔指定  
   - sVC: sV(バージョン確認) + sC(デフォルトのスクリプトを用いてスキャン)  
   - Pn: 事前のping確認をスキップ  

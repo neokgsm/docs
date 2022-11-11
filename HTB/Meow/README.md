@@ -27,7 +27,7 @@ nmap
 <br>
 
 7. ポート23/tcp上のサービスは何か？  
-telnet  
+telnet<br><br>
 How to:  
   `$ nmap -T4 -sVC -Pn -v (ターゲットIP) -oA (ファイル名)`  
   - T4: スキャン間隔指定  

@@ -3,9 +3,9 @@
 ## Task 解答
 
 1. 頭文字VMは何の意か？  
-virtual machine
-  
-  
+virtual machine  
+<br>
+
 2. VPN接続を開始するときなど、コマンドラインを通してOSに対するコマンドを実行するために使われるツールとは何か？コンソールやシェルともいわれる。  
 terminal
 
